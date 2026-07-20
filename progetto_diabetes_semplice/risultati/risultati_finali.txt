@@ -1,0 +1,28 @@
+RISULTATI FINALI DEL PROGETTO
+============================================================
+
+1. CONFRONTO INIZIALE
+Il modello con il miglior NMSE medio è: Ridge
+NMSE medio: -3071.93
+
+Nota: nella Negative Mean Squared Error, il valore migliore è quello più vicino a zero.
+
+2. OTTIMIZZAZIONE RIDGE
+Iperparametro ottimizzato: alpha
+Miglior valore di alpha: 1.0
+
+3. TEST SET
+MSE finale: 2892.01
+R² finale: 0.4541
+
+4. LEARNING CURVES
+MSE finale training: 2849.62
+MSE finale validazione: 3070.66
+Commento: Gli errori di training e validazione sono abbastanza vicini. Il modello presenta un equilibrio ragionevole tra bias e varianza.
+
+5. PCA
+Varianza spiegata complessivamente da PC1 e PC2: 54.47%
+R² del modello Ridge allenato soltanto su PC1 e PC2: 0.3404
+
+La PCA perde parte delle informazioni perché riduce dieci feature a soltanto due componenti.
+Per questo il modello nello spazio PCA può essere meno preciso del modello completo.
