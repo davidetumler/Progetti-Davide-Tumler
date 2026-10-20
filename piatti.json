@@ -1,0 +1,122 @@
+{
+  "baklava": {
+    "nome": "Baklava",
+    "ingredienti": ["pasta fillo", "pistacchi o noci", "miele", "zucchero", "burro"],
+    "calorie_kcal": 330,
+    "porzione_g": 100,
+    "descrizione": "Dolce mediorientale a strati croccanti di pasta fillo, frutta secca e sciroppo dolce al miele.",
+    "tags": ["dolce", "dessert", "miele", "croccante", "frutta secca", "energetico"]
+  },
+  "caesar_salad": {
+    "nome": "Caesar salad",
+    "ingredienti": ["lattuga romana", "crostini", "parmigiano", "salsa Caesar", "pollo facoltativo"],
+    "calorie_kcal": 290,
+    "porzione_g": 250,
+    "descrizione": "Insalata croccante con lattuga, crostini e condimento cremoso; si può servire con pollo.",
+    "tags": ["insalata", "verdure", "fresco", "pranzo", "croccante", "piatto unico"]
+  },
+  "cheesecake": {
+    "nome": "Cheesecake",
+    "ingredienti": ["formaggio spalmabile", "biscotti", "burro", "zucchero", "uova o panna"],
+    "calorie_kcal": 350,
+    "porzione_g": 120,
+    "descrizione": "Torta cremosa al formaggio con base di biscotti, spesso accompagnata da frutta fresca.",
+    "tags": ["dolce", "dessert", "cremoso", "torta", "formaggio", "frutta"]
+  },
+  "chocolate_cake": {
+    "nome": "Torta al cioccolato",
+    "ingredienti": ["cioccolato", "farina", "zucchero", "uova", "burro"],
+    "calorie_kcal": 410,
+    "porzione_g": 120,
+    "descrizione": "Torta soffice e golosa al cioccolato, adatta a chi cerca un dessert intenso.",
+    "tags": ["dolce", "dessert", "cioccolato", "torta", "goloso", "comfort food"]
+  },
+  "churros": {
+    "nome": "Churros",
+    "ingredienti": ["farina", "acqua", "olio per friggere", "zucchero", "cannella"],
+    "calorie_kcal": 360,
+    "porzione_g": 120,
+    "descrizione": "Bastoncini di pasta fritta spagnoli, croccanti fuori e morbidi dentro, ricoperti di zucchero e cannella; talvolta serviti con cioccolato o miele.",
+    "tags": ["dolce", "dessert", "fritto", "croccante", "merenda", "zucchero", "miele"]
+  },
+  "french_fries": {
+    "nome": "Patatine fritte",
+    "ingredienti": ["patate", "olio", "sale"],
+    "calorie_kcal": 310,
+    "porzione_g": 150,
+    "descrizione": "Patate tagliate a bastoncino e fritte, dorate e croccanti; contorno da condividere.",
+    "tags": ["salato", "fritto", "contorno", "croccante", "sfizioso", "fast food"]
+  },
+  "greek_salad": {
+    "nome": "Insalata greca",
+    "ingredienti": ["pomodori", "cetrioli", "feta", "olive", "cipolla rossa", "olio extravergine"],
+    "calorie_kcal": 250,
+    "porzione_g": 300,
+    "descrizione": "Insalata mediterranea fresca con verdure, feta e olive, adatta a un pasto estivo relativamente leggero.",
+    "tags": ["fresco", "leggero", "estivo", "verdure", "mediterraneo", "insalata", "vegetariano"]
+  },
+  "hamburger": {
+    "nome": "Hamburger",
+    "ingredienti": ["pane", "hamburger di manzo", "pomodoro", "lattuga", "salsa"],
+    "calorie_kcal": 570,
+    "porzione_g": 250,
+    "descrizione": "Panino caldo e sostanzioso con carne, verdure e salse, tipico del fast food.",
+    "tags": ["salato", "carne", "panino", "sostanzioso", "fast food", "cena"]
+  },
+  "ice_cream": {
+    "nome": "Gelato",
+    "ingredienti": ["latte o acqua", "zucchero", "panna o frutta", "aromi"],
+    "calorie_kcal": 210,
+    "porzione_g": 120,
+    "descrizione": "Dessert freddo e cremoso, disponibile in gusti alla frutta o alla crema.",
+    "tags": ["dolce", "dessert", "freddo", "fresco", "estate", "gelato"]
+  },
+  "lasagna": {
+    "nome": "Lasagne",
+    "ingredienti": ["sfoglia di pasta", "ragù", "besciamella", "parmigiano", "pomodoro"],
+    "calorie_kcal": 520,
+    "porzione_g": 300,
+    "descrizione": "Piatto italiano al forno con strati di pasta, ragù e besciamella, ricco e sostanzioso.",
+    "tags": ["pasta", "italiano", "caldo", "sostanzioso", "pranzo", "comfort food"]
+  },
+  "pizza": {
+    "nome": "Pizza",
+    "ingredienti": ["farina", "pomodoro", "mozzarella", "olio extravergine", "lievito"],
+    "calorie_kcal": 750,
+    "porzione_g": 350,
+    "descrizione": "Pizza italiana cotta al forno con base di impasto, pomodoro e mozzarella, da gustare calda.",
+    "tags": ["italiano", "salato", "forno", "caldo", "cena", "da condividere"]
+  },
+  "ramen": {
+    "nome": "Ramen",
+    "ingredienti": ["noodles", "brodo", "uova", "carne o tofu", "cipollotto"],
+    "calorie_kcal": 490,
+    "porzione_g": 450,
+    "descrizione": "Zuppa giapponese calda con noodles, brodo saporito e diversi condimenti; confortevole e saziante.",
+    "tags": ["giapponese", "asiatico", "zuppa", "brodo", "caldo", "sostanzioso", "noodles"]
+  },
+  "spaghetti_carbonara": {
+    "nome": "Spaghetti alla carbonara",
+    "ingredienti": ["spaghetti", "guanciale", "uova", "pecorino", "pepe nero"],
+    "calorie_kcal": 650,
+    "porzione_g": 250,
+    "descrizione": "Primo piatto romano con pasta, guanciale, uova e pecorino; dal gusto deciso e consistenza cremosa.",
+    "tags": ["pasta", "italiano", "cremoso", "sostanzioso", "salato", "pranzo"]
+  },
+  "sushi": {
+    "nome": "Sushi",
+    "ingredienti": ["riso per sushi", "pesce o verdure", "alga nori", "aceto di riso", "salsa di soia"],
+    "calorie_kcal": 320,
+    "porzione_g": 200,
+    "descrizione": "Preparazione giapponese a base di riso condito, pesce o verdure, servita spesso fresca e in piccoli bocconi.",
+    "tags": ["giapponese", "asiatico", "pesce", "fresco", "riso", "leggero"]
+  },
+  "tiramisu": {
+    "nome": "Tiramisù",
+    "ingredienti": ["mascarpone", "savoiardi", "caffè", "uova", "zucchero", "cacao"],
+    "calorie_kcal": 390,
+    "porzione_g": 150,
+    "descrizione": "Dolce italiano cremoso a strati di savoiardi al caffè, crema al mascarpone e cacao.",
+    "tags": ["dolce", "dessert", "caffè", "cremoso", "italiano", "cacao"]
+  }
+}
