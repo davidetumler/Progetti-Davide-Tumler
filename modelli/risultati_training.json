@@ -1,0 +1,53 @@
+{
+  "classi": [
+    "baklava",
+    "caesar_salad",
+    "cheesecake",
+    "chocolate_cake",
+    "churros",
+    "french_fries",
+    "greek_salad",
+    "hamburger",
+    "ice_cream",
+    "lasagna",
+    "pizza",
+    "ramen",
+    "spaghetti_carbonara",
+    "sushi",
+    "tiramisu"
+  ],
+  "numero_classi": 15,
+  "immagini_train_per_classe": 60,
+  "immagini_val_per_classe": 20,
+  "immagini_test_per_classe": 20,
+  "epoche_effettuate": 3,
+  "test_accuracy": 0.6966666579246521,
+  "test_loss": 0.9730214476585388,
+  "history": {
+    "accuracy": [
+      0.2866666615009308,
+      0.5766666531562805,
+      0.6888889074325562
+    ],
+    "loss": [
+      2.3451011180877686,
+      1.3261845111846924,
+      0.9954582452774048
+    ],
+    "val_accuracy": [
+      0.5699999928474426,
+      0.70333331823349,
+      0.7200000286102295
+    ],
+    "val_loss": [
+      1.4485664367675781,
+      1.0587235689163208,
+      0.9058485627174377
+    ],
+    "learning_rate": [
+      0.0010000000474974513,
+      0.0010000000474974513,
+      0.0010000000474974513
+    ]
+  }
+}
