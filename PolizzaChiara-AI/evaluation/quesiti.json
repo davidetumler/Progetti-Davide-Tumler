@@ -1,0 +1,10 @@
+[
+  {"question": "Quanto è la franchigia per i danni da acqua?", "document": "polizza_casa_base.pdf", "expected": "Franchigia € 350"},
+  {"question": "Qual è il massimale per la rottura delle tubazioni?", "document": "polizza_casa_plus.pdf", "expected": "€ 25.000"},
+  {"question": "La polizza Base copre il furto?", "document": "polizza_casa_base.pdf", "expected": "NON è presente"},
+  {"question": "Qual è lo scoperto previsto per il furto?", "document": "polizza_casa_plus.pdf", "expected": "10%"},
+  {"question": "Quanto copre la responsabilità civile verso terzi?", "document": "polizza_casa_base.pdf", "expected": "€ 250.000"},
+  {"question": "Qual è il massimale della responsabilità civile?", "document": "polizza_casa_plus.pdf", "expected": "€ 500.000"},
+  {"question": "Si può chiamare un idraulico a domicilio?", "document": "polizza_casa_plus.pdf", "expected": "idraulico o elettricista"},
+  {"question": "La ricerca del guasto è compresa?", "document": "polizza_casa_base.pdf", "expected": "NON sono incluse"}
+]

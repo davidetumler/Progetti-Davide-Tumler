@@ -1,0 +1,1 @@
+"""Motore applicativo PolizzaChiara AI."""
